@@ -1,0 +1,20 @@
+body{
+  background-image: url("/home/arthur/Desktop/retro/img/background/literature.jpg");
+  background-attachment: fixed;
+  height: 100%;
+}
+li{
+    font-family: 'Dosis', sans-serif;
+}
+.roubranca{
+  margin: 75vh 0vh;
+  padding: 15vh;
+}
+
+#futer{
+  margin-bottom: 0vh;
+}
+
+#citacao{
+  font-size: 2em;
+}
